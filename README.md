@@ -1,5 +1,5 @@
 # Feedback Animation 
-This project is inspired from <a href="https://dribbble.com/blabus"> Bill Labus </a> <a href="http://labus.me/projects/feedback" >Feedback Animation </a>. If you find anything missing or needs imporvement please contribute 🙂.
+This project is inspired from <a href="https://dribbble.com/blabus"> Bill Labus </a> <a href="http://labus.me/projects/feedback" >Feedback Animation </a>. If you find anything missing or needs improvement please contribute 🙂.
 
 How it works
 -----
