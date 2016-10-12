@@ -15,4 +15,8 @@ How it works
 * Xcode 7.3.1+
 * Swift 2.3
 
+License
+=================
+Feedback-Animation-Swift is distributed under the MIT
+license (see LICENSE.md).
 
